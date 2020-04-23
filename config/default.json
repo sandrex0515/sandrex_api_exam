@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb://localhost:27017/dost",
+    "jwtSecret": "dostast_s3cr3t"
+}

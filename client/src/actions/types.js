@@ -1,0 +1,14 @@
+export const GET_DATAS = 'GET_DATAS';
+export const ADD_DATA = 'ADD_DATA';
+export const DELETE_DATA = 'DELETE_DATA';
+export const LOADING_DATA = 'LOADING_DATA';
+export const LOADING_USER = 'LOADING_USER';
+export const LOADED_USER = 'LOADED_USER';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const GET_ERRORS = 'GET_ERRORS';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
